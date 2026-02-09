@@ -87,3 +87,76 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mohammad1988Kharma)
 
 
+## 🧱 Skills Badge Wall
+
+### ☁️ Azure
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-blue)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-Observability-blue)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-Database-blue)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-NoSQL-blue)
+
+### ⚙️ DevOps & IaC
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Bicep](https://img.shields.io/badge/Bicep-IaC-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-Command%20Line-blue)
+
+### 🖥️ Systems & Support
+![Windows](https://img.shields.io/badge/Windows-Server-blue)
+![Linux](https://img.shields.io/badge/Linux-Admin-yellow)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-orange)
+![Intune](https://img.shields.io/badge/Intune-Endpoint%20Management-blue)
+
+### 🔐 Security
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Security-black)
+![Defender for Cloud](https://img.shields.io/badge/Defender%20for%20Cloud-Security-blue)
+
+
+# 📘 Cloud Portfolio
+
+A collection of hands-on Azure projects demonstrating cloud architecture, DevOps, automation, and real-world problem solving.
+
+---
+
+## 🟦 1. Azure Landing Zone (Enterprise-Ready)
+**Goal:** Build a secure, scalable foundation for enterprise workloads  
+**Tech:** Bicep, Azure Policy, RBAC, Management Groups  
+**Highlights:**
+- Policy-driven governance  
+- Segmented networking  
+- Identity & access strategy  
+- Cost management setup  
+
+---
+
+## 🟩 2. AKS Microservices App with CI/CD
+**Goal:** Deploy a containerized microservices app using AKS  
+**Tech:** AKS, Docker, Azure SQL, GitHub Actions  
+**Highlights:**
+- Automated CI/CD pipeline  
+- Secure secrets with Key Vault  
+- Horizontal pod autoscaling  
+- Observability with Log Analytics  
+
+---
+
+## 🟧 3. Terraform Multi-Region Deployment
+**Goal:** Deploy a resilient, multi-region architecture  
+**Tech:** Terraform, VMSS, Load Balancer, Traffic Manager  
+**Highlights:**
+- Infrastructure as Code  
+- DR-ready design  
+- Automated provisioning  
+
+---
+
+## 🟨 4. IT Support Automation Toolkit
+**Goal:** Automate daily IT support tasks  
+**Tech:** PowerShell, Intune, Azure AD  
+**Highlights:**
+- Automated onboarding  
+- Bulk device configuration  
+- Reporting scripts  
+
