@@ -1,4 +1,3 @@
-# Mohammad.Abou-Kharma
 <!-- Replace with your own banner or profile photo -->
 <p align="center">
   <img src="https://via.placeholder.com/800x200.png?text=Mohammad+Alsharif+-+Cloud+Engineer" />
