@@ -1,7 +1,4 @@
-<!-- Replace with your own banner or profile photo -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Mohammad+Alsharif+-+Cloud+Engineer" />
-</p>
+<p align="center"> <img src="https://placehold.co/800x200?text=Mohammad+Alsharif+-+Cloud+Engineer" /> </p>
 
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
 <h3 align="center">IT Support Engineer | Azure Administrator (AZ-104) | Azure Architect (AZ-305)</h3>
